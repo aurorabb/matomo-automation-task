@@ -39,6 +39,10 @@ Clone the repository and install dependencies:
 ```
 npm install
 ```
+Install Playwright Browsers:
+```
+npx playwright install
+```
 
 ### 3. Execution
 Run all tests in headless mode:
